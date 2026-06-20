@@ -32,7 +32,7 @@
   "overrides": {
     "flatted": "^3.4.2",
     "js-yaml": "^4.1.1",
-    "minimatch": ">=9.0.7",
+    "minimatch": "^10.2.5",
     "picomatch": "^4.0.4",
     "postcss": "^8.5.10",
     "rollup": "^4.59.0",
